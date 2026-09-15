@@ -12,7 +12,7 @@
 
 👨‍💻 About Me
 
-class Venish:
+class Valathi:
 
     role = "Full Stack Developer"
 
